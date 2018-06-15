@@ -1,0 +1,30 @@
+{
+  "name": "cleaner",
+  "version": "1.0.0",
+  "description": "Clean files recursively in a directory based on provided filetypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarShariar/cleaner.git"
+  },
+  "keywords": [
+    "clean",
+    "files",
+    "recursively",
+    "fs",
+    "executable",
+    "nodejs"
+  ],
+  "author": "Abrar Shariar <shariarabrar@gmail.com> (https://github.com/abrarShariar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrarShariar/cleaner/issues"
+  },
+  "homepage": "https://github.com/abrarShariar/cleaner#readme",
+  "dependencies": {
+    "executable": "^4.1.1"
+  }
+}
